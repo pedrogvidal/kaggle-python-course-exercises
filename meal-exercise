@@ -1,6 +1,6 @@
-Kaggle has a Python course with challenging exercises for basic structure understanding.
+# Kaggle has a Python course with challenging exercises for basic structure understanding.
 
-LOOPS AND LISTS COMPREHENSION
+# LOOPS AND LISTS COMPREHENSION
 
 def menu_is_boring(meals):
     """Given a list of meals served over some period of time, return True if the
