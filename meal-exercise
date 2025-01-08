@@ -11,3 +11,36 @@ def menu_is_boring(meals):
         if meals[i] == meals[i+1]:
             return True
     return False
+
+
+#comittion jan 07/01
+
+# LOOPS AND LISTS COMPREHENSION
+
+def menu_is_boring(meals):
+    """Given a list of meals served over some period of time, return True if the
+    same meal has ever been served two days in a row, and False otherwise.
+    """
+    pass
+    for i in range(len(meals)-1):
+        if meals[i] == meals[i+1]:
+            return True
+    return False
+
+
+# LOOPS AND LISTS COMPREHENSION
+
+def menu_is_boring(meals):
+    """Given a list of meals served over some period of time, return True if the
+    same meal has ever been served two days in a row, and False otherwise.
+    """
+    pass
+    for i in range(len(meals)-1):
+        if meals[i] == meals[i+1]:
+            return True
+    return False
+
+
+#blablabla
+#ablublé
+#lppoo
